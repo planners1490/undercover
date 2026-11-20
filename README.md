@@ -6,6 +6,7 @@
 
 *Built for **Claude Code**, **Google Antigravity**, **OpenAI Codex**, **Cursor**, **Gemini CLI**, **OpenCode**, and **Aider***
 
+[![CI](https://img.shields.io/github/actions/workflow/status/planners1490/undercover/ci.yml?branch=main&style=for-the-badge&label=CI%20Tests)](https://github.com/planners1490/undercover/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![Agent Skills Spec](https://img.shields.io/badge/Agent%20Skills-Claude%20Code%20%7C%20Antigravity%20%7C%20Codex%20%7C%20Cursor-38BDF8?style=for-the-badge)](#installation)
 [![Zero Dependencies](https://img.shields.io/badge/Python%203.9%2B-Zero%20Dependencies%20(Offline)-A855F7?style=for-the-badge)](#cli-subcommands)
