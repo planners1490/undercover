@@ -1,0 +1,3 @@
+# Intentional cross-agent skill symlinks for the undercover skill repository itself
+.agents/skills/undercover
+.claude/skills/undercover
